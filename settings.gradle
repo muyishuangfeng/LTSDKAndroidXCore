@@ -1,0 +1,2 @@
+include ':LTSDKAndroidXCore'
+rootProject.name='LTAndroidX'
